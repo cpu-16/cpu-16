@@ -1,6 +1,11 @@
 <div align="center">
-  <img height="150" src="certi/perfil2.png" />
+  <img
+    src="certi/perfil2.png"
+    alt="Gilberto giving a talk"
+    style="max-width: 100%; width: 600px; border-radius: 12px;"
+  />
 </div>
+
 
 ###
 
