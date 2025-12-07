@@ -43,8 +43,8 @@
 <p align="left">
 I'm Gilberto from Panamá.<br><br>
 - 🔭 I’m a cybersecurity student.<br>
-- 📚 I'm currently learning about DevOps/SysAdmin, connecting LLM models with n8n and different APIs to automate workflows.<br>
-- ⚡ In my free time, I dedicate myself to learning new technologies and practicing every day to improve my skills. 
+- 📚 I'm currently learning about DevOps/SysAdmin, connecting LLM models with n8n and different APIs to automate workflows.
+- ⚡ In my free time, I dedicate myself to learning new technologies and practicing every day to improve my skills.<br>
 - 📫 How to reach me: gilbertr474@gmail.com
 
 </p>
