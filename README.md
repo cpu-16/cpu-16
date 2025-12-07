@@ -16,10 +16,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil-linkedin">
+  <a href="https://www.linkedin.com/in/antonio-ramos-6b9646146/" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/tu-canal-youtube">
+  <a href="https://www.youtube.com/channel/UCvhMdWqvNjdND9hkMnhCtiQ">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
@@ -45,6 +45,7 @@ I'm Gilberto from Panamá.<br><br>
 - 🔭 I’m a cybersecurity student.<br>
 - 📚 I'm currently learning about DevOps/SysAdmin, connecting LLM models with n8n and different APIs to automate workflows.<br>
 - ⚡ In my free time, I dedicate myself to learning new technologies and practicing every day to improve my skills.
+- 📫 How to reach me: gilbertr474@gmail.com
 </p>
 
 ###
