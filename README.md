@@ -2,10 +2,9 @@
   <img
     src="certi/perfil2.png"
     alt="Gilberto giving a talk"
-    style="max-width: 100%; width: 600px; border-radius: 12px;"
+    style="width: 100%; max-width: 1000px; max-height: 320px; object-fit: cover; object-position: center; border-radius: 12px;"
   />
 </div>
-
 
 ###
 
