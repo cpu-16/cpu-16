@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gar1695.Gar1695&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cpu-16.cpu-16&"  />
 </div>
 
 ###
@@ -29,7 +29,12 @@
 
 ###
 
-<p align="left">I'm Gilberto from Panamá.<br><br>- 🔭 I’m a cybersecurity student.<br>- 📚 I'm currently learning about secure databases and honeypots.<br>- ⚡ In my free time, I dedicate myself to learning new technologies and practicing every day to improve my skills.</p>
+<p align="left">
+I'm Gilberto from Panamá.<br><br>
+- 🔭 I’m a cybersecurity student.<br>
+- 📚 I'm currently learning about DevOps/SysAdmin, connecting LLM models with n8n and different APIs to automate workflows.<br>
+- ⚡ In my free time, I dedicate myself to learning new technologies and practicing every day to improve my skills.
+</p>
 
 ###
 
@@ -47,21 +52,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" height="40" alt="mariadb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" height="40" alt="n8n logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" height="40" alt="proxmox logo" />
 </div>
-
-
 
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+<!-- aquí dejas tus tarjetas de stats y la culebrita -->
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gar1695&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-### SNAKE EATING MY CONTRIBUTION GRAPH
-
-![snake_gif](https://github.com/Gar1695/Gar1695/blob/output/snake.svg)
-###
