@@ -72,19 +72,11 @@ I'm Gilberto from Panamá.<br><br>
 
 ###
 <div align="center">
-
-[  <img
-    src="https://github-readme-stats.vercel.app/api?username=cpu-16&show_icons=true&theme=github_dark"
-    alt="cpu-16 GitHub stats"
+  <img 
+    src="https://githubcard.com/cpu-16.svg?d=8mtpURzG" 
+    alt="GitHub stats card" 
     height="160"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpu-16&layout=compact&theme=github_dark"
-    alt="cpu-16 top languages"
-    height="160"
-  />](https://githubcard.com/cpu-16.svg?d=8mtpURzG)
-
+/>
 </div>
 
 <h3 align="left">🔥   My Stats :</h3>
