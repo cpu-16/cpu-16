@@ -73,7 +73,7 @@ I'm Gilberto from Panamá.<br><br>
 ###
 <div align="center">
   <img 
-    src="https://githubcard.com/cpu-16.svg?d=7hq536qQ" 
+    src="https://githubcard.com/cpu-16.svg?d=Cn4pxyrH" 
     alt="GitHub stats card" 
     height="160"
 />
