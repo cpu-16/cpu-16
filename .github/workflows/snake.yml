@@ -1,33 +1,44 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Ejecutar cada 12 horas
-    - cron: "* */12 * * *"
+  # 1 vez al día (cero exceso de runs)
+  schedule:
+    - cron: "0 0 * * *"
 
-  workflow_dispatch: # Permitir la ejecución manual
+  # Permite ejecutarlo manualmente cuando quieras
+  workflow_dispatch:
 
-  push:
-    branches:
-      - master # Cambia a 'main' si tu rama principal se llama así
+# Evita que se pisen ejecuciones si GitHub tarda o se queda en cola
+concurrency:
+  group: snake
+  cancel-in-progress: true
 
 jobs:
   generate:
     permissions:
-      contents: write # Permiso para escribir en el repositorio
+      contents: write
+
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+
+    # No necesitas 5, pero lo dejo seguro. El job normalmente dura < 1 min
+    timeout-minutes: 10
 
     steps:
-      - name: Generar snake.svg
+      - name: Generate snake SVG (dark palette)
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Gar1695 # Tu nombre de usuario en GitHub
-          outputs: dist/snake.svg?palette=github-dark
+          github_user_name: Gar1695
+          # Genera 2 versiones: una dark y otra light (opcional pero útil)
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
 
-      - name: Subir snake.svg a la rama de salida
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output # Asegúrate de que esta rama exista
+          target_branch: output
           build_dir: dist
+          # Publica solo lo que genera, sin basura
+          keep_history: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Asegúrate de que el token esté disponible
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
