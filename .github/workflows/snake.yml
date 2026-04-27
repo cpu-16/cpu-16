@@ -1,6 +1,11 @@
 name: Generate Snake Animation
 
 on:
+  # Se actualiza cuando subes cambios al perfil
+  push:
+    branches:
+      - main
+
   # 1 vez al día (cero exceso de runs)
   schedule:
     - cron: "0 0 * * *"

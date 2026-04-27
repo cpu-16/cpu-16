@@ -42,10 +42,12 @@
 
 <p align="left">
 I'm Gilberto from Panamá.<br><br>
-- 🔭 I’m a cybersecurity student.<br>
-- 📚 I'm currently learning about DevOps/SysAdmin, connecting LLM models with n8n and different APIs to automate workflows.<br>
-- ⚡ In my free time, I dedicate myself to learning new technologies and practicing every day to improve my skills.<br>
-- 📫 How to reach me: gilbertr474@gmail.com
+- 🔭 I’m a cybersecurity student currently finishing my degree at UTP.<br>
+- 📚 I'm focused on SRE, SysAdmin, Linux infrastructure, automation, monitoring and cybersecurity labs.<br>
+- ⚙️ I work with homelab environments using Proxmox, Docker, Ansible, MariaDB, n8n, Wazuh and Azure.<br>
+- 🤖 I also experiment with AI workflows, RAG, local LLMs, MCP and agents connected to APIs.<br>
+- 🌐 Personal site: <a href="https://www.ciberpty.com">www.ciberpty.com</a><br>
+- 📫 How to reach me: gilberto@ciberpty.com
 </p>
 
 ###
@@ -71,6 +73,31 @@ I'm Gilberto from Panamá.<br><br>
 </div>
 
 ###
+
+<h3 align="left">🧩 Experience and interests</h3>
+
+<p align="left">
+- Practiced technical support and basic server administration with <a href="https://servidoresrapidos.net/">Servidores Rapidos</a>, helping with Linux/Windows environments and incident review.<br>
+- Built and maintain small web projects and services running from a personal homelab.<br>
+- Interested in reliability, observability, automation, incident response and secure infrastructure operations.<br>
+- Presented cybersecurity topics at UTP Veraguas, including a honeypot exploration for Clinicas Informaticas 2024.<br>
+- Participated in Hackathon Copa Airlines, AMALIACONF 2025, WICI-2025 and Security BSides 2026.
+</p>
+
+###
+
+<h3 align="left">🎓 Education and certifications</h3>
+
+<p align="left">
+- B.Sc. track in Cybersecurity at UTP, currently in the final semester.<br>
+- Technical engineering specialization in Cybersecurity.<br>
+- Specialized MSS/SOC program.<br>
+- Introduction to non-relational databases.<br>
+- Introduction to Model Context Protocol (MCP).
+</p>
+
+###
+
 <div align="center">
   <img 
     src="https://githubcard.com/cpu-16.svg?d=Cn4pxyrH" 
@@ -85,5 +112,4 @@ I'm Gilberto from Panamá.<br><br>
   <img alt="github contribution grid snake animation"
        src="https://raw.githubusercontent.com/cpu-16/cpu-16/output/snake.svg" />
 </div>
-
 
